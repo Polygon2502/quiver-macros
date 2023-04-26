@@ -1,7 +1,6 @@
 \newcommand{\foo}{\alpha}
-\newcommand{\adj}[2] {\dashv^{#1}_{#2}}
-\newcommand{\exta}[1] {\mathsf{E}{#1}}
-\newcommand{\extb}[1] {\mathsf{e}{#1}}
+\newcommand{\exta}{\mathsf{E}}
+\newcommand{\extb}{\mathsf{e}}
 \newcommand{\oplmc}[1] {\mathsf{Q}{#1}}
 \newcommand{\ounit}[1] {\mathsf{q}\bks{#1}}
 \newcommand{\ocounit}[1] {\mathsf{s}{#1}}
